@@ -1,0 +1,911 @@
+{
+ "as_of": "2026-10-15",
+ "orders": [
+  {
+   "order_id": "NW-1001",
+   "customer_email": "jordan76@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1002",
+   "customer_email": "tom30@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-20"
+  },
+  {
+   "order_id": "NW-1003",
+   "customer_email": "jordan82@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-17"
+  },
+  {
+   "order_id": "NW-1004",
+   "customer_email": "maria4@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-29"
+  },
+  {
+   "order_id": "NW-1005",
+   "customer_email": "priya47@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-22"
+  },
+  {
+   "order_id": "NW-1006",
+   "customer_email": "lee65@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-24"
+  },
+  {
+   "order_id": "NW-1007",
+   "customer_email": "alex36@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-09"
+  },
+  {
+   "order_id": "NW-1008",
+   "customer_email": "nina35@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1009",
+   "customer_email": "priya3@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-11"
+  },
+  {
+   "order_id": "NW-1010",
+   "customer_email": "tom36@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-09"
+  },
+  {
+   "order_id": "NW-1011",
+   "customer_email": "maria79@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-08"
+  },
+  {
+   "order_id": "NW-1012",
+   "customer_email": "lee59@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-07-31"
+  },
+  {
+   "order_id": "NW-1013",
+   "customer_email": "lee82@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-02"
+  },
+  {
+   "order_id": "NW-1014",
+   "customer_email": "alex49@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-21"
+  },
+  {
+   "order_id": "NW-1015",
+   "customer_email": "nina91@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-01"
+  },
+  {
+   "order_id": "NW-1016",
+   "customer_email": "maria76@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-01"
+  },
+  {
+   "order_id": "NW-1017",
+   "customer_email": "alex73@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1018",
+   "customer_email": "sam77@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-28"
+  },
+  {
+   "order_id": "NW-1019",
+   "customer_email": "fatima35@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1020",
+   "customer_email": "nina17@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-03"
+  },
+  {
+   "order_id": "NW-1021",
+   "customer_email": "alex53@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-10"
+  },
+  {
+   "order_id": "NW-1022",
+   "customer_email": "alex96@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-01"
+  },
+  {
+   "order_id": "NW-1023",
+   "customer_email": "sam32@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-12"
+  },
+  {
+   "order_id": "NW-1024",
+   "customer_email": "priya65@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-29"
+  },
+  {
+   "order_id": "NW-1025",
+   "customer_email": "kevin17@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-05"
+  },
+  {
+   "order_id": "NW-1026",
+   "customer_email": "jordan36@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1027",
+   "customer_email": "maria80@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-27"
+  },
+  {
+   "order_id": "NW-1028",
+   "customer_email": "alex16@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-26"
+  },
+  {
+   "order_id": "NW-1029",
+   "customer_email": "kevin50@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-24"
+  },
+  {
+   "order_id": "NW-1030",
+   "customer_email": "lee11@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-18"
+  },
+  {
+   "order_id": "NW-1031",
+   "customer_email": "nina56@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-26"
+  },
+  {
+   "order_id": "NW-1032",
+   "customer_email": "fatima3@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-05"
+  },
+  {
+   "order_id": "NW-1033",
+   "customer_email": "kevin48@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-21"
+  },
+  {
+   "order_id": "NW-1034",
+   "customer_email": "tom49@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-12"
+  },
+  {
+   "order_id": "NW-1035",
+   "customer_email": "tom12@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1036",
+   "customer_email": "maria75@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-26"
+  },
+  {
+   "order_id": "NW-1037",
+   "customer_email": "alex71@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1038",
+   "customer_email": "maria48@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-01"
+  },
+  {
+   "order_id": "NW-1039",
+   "customer_email": "lee89@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-11"
+  },
+  {
+   "order_id": "NW-1040",
+   "customer_email": "tom57@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-04"
+  },
+  {
+   "order_id": "NW-1041",
+   "customer_email": "lee77@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-06"
+  },
+  {
+   "order_id": "NW-1042",
+   "customer_email": "jordan42@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-09-28"
+  },
+  {
+   "order_id": "NW-1043",
+   "customer_email": "tom4@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-05"
+  },
+  {
+   "order_id": "NW-1044",
+   "customer_email": "sam28@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1045",
+   "customer_email": "maria22@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-10"
+  },
+  {
+   "order_id": "NW-1046",
+   "customer_email": "kevin58@example.com",
+   "status": "in_transit",
+   "delivered_on": null
+  },
+  {
+   "order_id": "NW-1047",
+   "customer_email": "priya70@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-10-09"
+  },
+  {
+   "order_id": "NW-1048",
+   "customer_email": "tom90@example.com",
+   "status": "delivered",
+   "delivered_on": "2026-08-18"
+  }
+ ],
+ "items": [
+  {
+   "item_id": "IT-2001",
+   "order_id": "NW-1001",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2002",
+   "order_id": "NW-1002",
+   "name": "Hiking Backpack 30L",
+   "category": "gear",
+   "price": 149.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2003",
+   "order_id": "NW-1003",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2004",
+   "order_id": "NW-1004",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2005",
+   "order_id": "NW-1005",
+   "name": "Gift Card",
+   "category": "gift_card",
+   "price": 25.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2006",
+   "order_id": "NW-1006",
+   "name": "Water Bottle",
+   "category": "gear",
+   "price": 19.99,
+   "final_sale": 1
+  },
+  {
+   "item_id": "IT-5006",
+   "order_id": "NW-1006",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2007",
+   "order_id": "NW-1007",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2008",
+   "order_id": "NW-1008",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5008",
+   "order_id": "NW-1008",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2009",
+   "order_id": "NW-1009",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2010",
+   "order_id": "NW-1010",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5010",
+   "order_id": "NW-1010",
+   "name": "Hiking Backpack 30L",
+   "category": "gear",
+   "price": 149.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2011",
+   "order_id": "NW-1011",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2012",
+   "order_id": "NW-1012",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2013",
+   "order_id": "NW-1013",
+   "name": "Hiking Backpack 30L",
+   "category": "gear",
+   "price": 149.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5013",
+   "order_id": "NW-1013",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2014",
+   "order_id": "NW-1014",
+   "name": "Gift Card",
+   "category": "gift_card",
+   "price": 25.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2015",
+   "order_id": "NW-1015",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 1
+  },
+  {
+   "item_id": "IT-5015",
+   "order_id": "NW-1015",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2016",
+   "order_id": "NW-1016",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5016",
+   "order_id": "NW-1016",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2017",
+   "order_id": "NW-1017",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5017",
+   "order_id": "NW-1017",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2018",
+   "order_id": "NW-1018",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5018",
+   "order_id": "NW-1018",
+   "name": "Hiking Backpack 30L",
+   "category": "gear",
+   "price": 149.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2019",
+   "order_id": "NW-1019",
+   "name": "Hiking Backpack 30L",
+   "category": "gear",
+   "price": 149.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5019",
+   "order_id": "NW-1019",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2020",
+   "order_id": "NW-1020",
+   "name": "Water Bottle",
+   "category": "gear",
+   "price": 19.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5020",
+   "order_id": "NW-1020",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2021",
+   "order_id": "NW-1021",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2022",
+   "order_id": "NW-1022",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2023",
+   "order_id": "NW-1023",
+   "name": "Gift Card",
+   "category": "gift_card",
+   "price": 25.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5023",
+   "order_id": "NW-1023",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2024",
+   "order_id": "NW-1024",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 1
+  },
+  {
+   "item_id": "IT-5024",
+   "order_id": "NW-1024",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2025",
+   "order_id": "NW-1025",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5025",
+   "order_id": "NW-1025",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2026",
+   "order_id": "NW-1026",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2027",
+   "order_id": "NW-1027",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2028",
+   "order_id": "NW-1028",
+   "name": "Trail Running Shoes",
+   "category": "footwear",
+   "price": 129.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5028",
+   "order_id": "NW-1028",
+   "name": "Water Bottle",
+   "category": "gear",
+   "price": 19.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2029",
+   "order_id": "NW-1029",
+   "name": "Water Bottle",
+   "category": "gear",
+   "price": 19.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5029",
+   "order_id": "NW-1029",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2030",
+   "order_id": "NW-1030",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2031",
+   "order_id": "NW-1031",
+   "name": "Trail Running Shoes",
+   "category": "footwear",
+   "price": 129.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2032",
+   "order_id": "NW-1032",
+   "name": "Gift Card",
+   "category": "gift_card",
+   "price": 25.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5032",
+   "order_id": "NW-1032",
+   "name": "Trail Running Shoes",
+   "category": "footwear",
+   "price": 129.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2033",
+   "order_id": "NW-1033",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 1
+  },
+  {
+   "item_id": "IT-2034",
+   "order_id": "NW-1034",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5034",
+   "order_id": "NW-1034",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2035",
+   "order_id": "NW-1035",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5035",
+   "order_id": "NW-1035",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2036",
+   "order_id": "NW-1036",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5036",
+   "order_id": "NW-1036",
+   "name": "Rain Jacket",
+   "category": "apparel",
+   "price": 89.5,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2037",
+   "order_id": "NW-1037",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2038",
+   "order_id": "NW-1038",
+   "name": "Water Bottle",
+   "category": "gear",
+   "price": 19.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5038",
+   "order_id": "NW-1038",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2039",
+   "order_id": "NW-1039",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5039",
+   "order_id": "NW-1039",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2040",
+   "order_id": "NW-1040",
+   "name": "Wool Socks (3-pack)",
+   "category": "apparel",
+   "price": 24.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2041",
+   "order_id": "NW-1041",
+   "name": "Gift Card",
+   "category": "gift_card",
+   "price": 25.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5041",
+   "order_id": "NW-1041",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2042",
+   "order_id": "NW-1042",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 1
+  },
+  {
+   "item_id": "IT-2043",
+   "order_id": "NW-1043",
+   "name": "Leather Boots",
+   "category": "footwear",
+   "price": 189.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2044",
+   "order_id": "NW-1044",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2045",
+   "order_id": "NW-1045",
+   "name": "Trail Running Shoes",
+   "category": "footwear",
+   "price": 129.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5045",
+   "order_id": "NW-1045",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2046",
+   "order_id": "NW-1046",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5046",
+   "order_id": "NW-1046",
+   "name": "Beanie",
+   "category": "apparel",
+   "price": 22.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2047",
+   "order_id": "NW-1047",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-5047",
+   "order_id": "NW-1047",
+   "name": "Fleece Pullover",
+   "category": "apparel",
+   "price": 64.0,
+   "final_sale": 0
+  },
+  {
+   "item_id": "IT-2048",
+   "order_id": "NW-1048",
+   "name": "Camp Stove",
+   "category": "gear",
+   "price": 54.99,
+   "final_sale": 0
+  }
+ ],
+ "refunds": [
+  {
+   "item_id": "IT-2007",
+   "amount": 12.0,
+   "reason": "other",
+   "created_on": "2026-10-13"
+  },
+  {
+   "item_id": "IT-2016",
+   "amount": 11.0,
+   "reason": "other",
+   "created_on": "2026-10-13"
+  },
+  {
+   "item_id": "IT-2025",
+   "amount": 12.8,
+   "reason": "other",
+   "created_on": "2026-10-13"
+  },
+  {
+   "item_id": "IT-2034",
+   "amount": 17.9,
+   "reason": "other",
+   "created_on": "2026-10-13"
+  },
+  {
+   "item_id": "IT-2043",
+   "amount": 94.5,
+   "reason": "other",
+   "created_on": "2026-10-13"
+  }
+ ]
+}
